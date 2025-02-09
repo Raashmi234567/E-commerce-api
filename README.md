@@ -1,6 +1,7 @@
 
 # Clone the Repository :
-- git clone https://github.com/yogesh-modgekar/E-Commerce-API.git
+- git  https://github.com/Raashmi234567/E-commerce-api.git
+
 
 # Features :
 - Create : Add new items to the system.
